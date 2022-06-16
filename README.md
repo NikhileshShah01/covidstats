@@ -1,1 +1,1 @@
-# covidstats
+CovidStats is a web application made using jquery an AJAX which displays total covid-19 cases of each and every country of the global and also show the recent corona cases and deaths due to covid of the past 7 days.
