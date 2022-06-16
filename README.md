@@ -1,1 +1,2 @@
-CovidStats is a web application made using jquery an AJAX which displays total covid-19 cases of each and every country of the global and also show the recent corona cases and deaths due to covid of the past 7 days.
+
+CovidStats is a web application which shows covid-19 related information of every nation across the global such as total confirmed cases, total deaths , new cases and recent deaths happened in the past 7 days. It fetches the data using Covid19 API. It is made with the help of jQuery, AJAX and Data Table.
